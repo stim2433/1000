@@ -28,5 +28,6 @@ class GameSession {
     var willQuestion: Int = 0
     
 
+    var questions: [String:String] = [:]
 }
 
